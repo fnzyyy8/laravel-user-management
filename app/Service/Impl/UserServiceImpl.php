@@ -8,8 +8,7 @@ class UserServiceImpl implements UserService
 {
 
     private array $users = [
-        'Farhan' => 'passwordFarhan',
-        'Anto'=>'passwordAnto'
+        'Farhan' => '123',
     ];
 
 
